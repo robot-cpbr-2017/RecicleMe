@@ -1,6 +1,6 @@
 # RecicleMe App #
 
-RecicleMe é um rede social que utiliza a gamificação para reeducar e conscientizar a população para a sustentabilidade e o consumo desregulado.
+RecicleMe App é uma rede social que utiliza a gamificação para reeducar e conscientizar a população para a sustentabilidade e o consumo desregulado.
 
 É simples e fácil de utilizar. Basta criar um login e sair desafiando seus amigos. O jogo é um Quiz com perguntas e respostas relacionadas ao tema "Sustentabilidade e Consumo e produção responsável". O desafiador ou desafiante que acertar o maior número de questões acumula pontos que podem ser trocados por produtos (prêmios), indicados pela lista do aplicativo e de acordo com o número de pontos necessários.
 
@@ -25,3 +25,6 @@ Mudar o mundo. Queremos pessoa bem informadas a ponto de cuidar do planeta, pess
 * Cesar Augusto Nogueira (cesarnogueira1210@gmail.com)
 * Leonardo Sibela (sibela26@gmail.com)
 * Audrin C Pereira (audrincp@hotmail.com)
+* Eduardo Augusto Petreca (audrincp@hotmail.com)
+
+
