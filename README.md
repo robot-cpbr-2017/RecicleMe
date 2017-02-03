@@ -22,9 +22,12 @@ Mudar o mundo. Queremos pessoa bem informadas a ponto de cuidar do planeta, pess
 
 ### Com quem eu posso falar sobre este projeto? ###
 
-* Cesar Augusto Nogueira (cesarnogueira1210@gmail.com)
-* Leonardo Sibela (sibela26@gmail.com)
 * Audrin C Pereira (audrincp@hotmail.com)
+* Cesar Augusto Nogueira (cesarnogueira1210@gmail.com)
 * Eduardo Augusto Petreca (audrincp@hotmail.com)
+* Leonardo Sibela (sibela26@gmail.com)
+* Rudnei Carlos de Oliveira (rhoodsk8erboy@gmail.com)
+
+
 
 
