@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">RecicleMe</string>
+
+    <string name="activity_title_login">Login</string>
+    <string name="activity_tilte_friends">Amigos</string>
+
+    <string name="typeEmail">Digite seu email&#8230;</string>
+    <string name="typePassword">Digite sua senha&#8230;</string>
+    <string name="recovery">Recuperar senha</string>
+    <string name="register">Cadastrar usuário</string>
+
+    <string name="navigation_drawer_open">Abrir menu lateral</string>
+    <string name="navigation_drawer_close">Fechar menu lateral</string>
+    <string name="recoveryPass">Recuperar</string>
+    <string name="remember">Lembrar senha</string>
+    <string name="confirmePassword">Confirme sua senha...</string>
+    <string name="registerUser">Cadastrar</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_friends">Amigos</string>
+    <string name="nav_battles">Batalhas</string>
+    <string name="nav_products">Produtos</string>
+    <string name="nav_share">Compartilhar</string>
+    <string name="nav_settings">Configurações</string>
+    <string name="nav_about">Sobre</string>
+    <string name="nav_logout">Sair</string>
+
+    <string-array name="main_tabs">
+        <item>Desafios</item>
+        <item>Top Players</item>
+        <item>Top Produtos</item>
+    </string-array>
+
+    <string name="product_point">%1$d ponto</string>
+    <string name="product_points">%1$d pontos</string>
+    <string name="user_points">Total de Pontos: %1$d</string>
+    <string name="user_products_acquired">Produtos adquiridos: %1$d</string>
+
+    <string name="empty_list_challenges">Você não possui desafios</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="recoverPass">Recuperar senha</string>
+
+</resources>

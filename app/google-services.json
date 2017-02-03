@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "404995795696",
+    "firebase_url": "https://cbprperguntas.firebaseio.com",
+    "project_id": "cbprperguntas",
+    "storage_bucket": "cbprperguntas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404995795696:android:f51d99cc5c45595a",
+        "android_client_info": {
+          "package_name": "br.com.cpbr.perguntas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404995795696-dl7i6uerpotgrfp9or0v28fen374himg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgMIZzrdIqBUn1YRQbl2aQvJ5Cwpk7D70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
